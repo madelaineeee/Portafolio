@@ -38,8 +38,7 @@ Este repositorio es un índice de los proyectos en los que he participado durant
 ### Museo UTP App → [Repositorio](https://github.com/Polar1920/museo-utp-app)  
 **Tecnología:** React Native, JavaScript, Firebase  
 **Descripción:** Aplicación móvil titulada *Tecnología en el Tiempo*, desarrollada como parte del curso Desarrollo de Software VI en la Universidad Tecnológica de Panamá.  
-**Mi rol:** Prototipo en Figma y responsable de implementar las pantallas de Registro, Login, Recuperación de contraseña y la sección de audios/diálogo interactivo. Además, realicé QA probando funcionalidades de acuerdo al prototipo y reportando errores o posibles mejoras.  
-https://www.figma.com/file/5aPtaQ1VVf1tjEK29omzzV/Museo?type=design&node-id=0%3A1&mode=design&t=ufkGRbtgOxJFi67n-1 
+**Mi rol:** Wireframe (prototipo) en → [Figma](https://www.figma.com/file/5aPtaQ1VVf1tjEK29omzzV/Museo?type=design&node-id=0%3A1&mode=design&t=ufkGRbtgOxJFi67n-1 ) y responsable de implementar las pantallas de Registro, Login, Recuperación de contraseña y la sección de audios/diálogo interactivo. Además, realicé QA probando funcionalidades de acuerdo al prototipo y reportando errores o posibles mejoras.  
 
 ---
 
