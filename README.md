@@ -10,7 +10,7 @@ Este repositorio es un índice de los proyectos en los que he participado durant
 ---
 
 ### StatusPage → [Repositorio](https://github.com/madelaineeee/StatusPage)  
-LiveDemo: [statuspage-production-210f.up.railway.app](https://statuspage-production-210f.up.railway.app)  
+LiveDemo: [LiveDemo](https://statuspage-production-210f.up.railway.app)  
 **Tecnología:** Node.js / Express / Socket.io / SQLite  
 **Descripción:** Aplicación diseñada para mostrar en tiempo real el estado de servicios y aplicaciones, pensada como una herramienta de monitoreo ágil y sencilla.
 
